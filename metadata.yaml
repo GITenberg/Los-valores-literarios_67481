@@ -1,0 +1,27 @@
+_repo: Los-valores-literarios_67481
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Azorín, José Martínez Ruiz
+    gutenberg_agent_id: '54288'
+    url: http://www.gutenberg.org/2009/agents/54288
+description: ''
+gutenberg_issued: '2022-02-23'
+identifiers:
+  gutenberg: '67481'
+language: es
+pgterms:marc904: https://archive.org/details/losvaloresliter00azorgoog
+pgterms:marc905: 20200406082915martnezrui
+pgterms:marc906: '1913'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: Spain :Renacimiento,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Los valores literarios
+url: http://www.gutenberg.org/ebooks/67481
